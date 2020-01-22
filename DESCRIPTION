@@ -3,9 +3,8 @@ Type: Package
 Title: Hello World 
 Version: 0.1.0
 Author: Elisha Bayode Are 
-Maintainer: Elisha Bayode Are <elishaare@sun.ac.za>
-Description: This package is developed as part of part of a practical exercise during SEAMS workshop 2020, 
-held at SACEMA, Stellenbosch University. The package consists of a single function hell which prints  "Hello world
+Maintainer: Elisha Bayode Are <elishaare@sun.ac.za> 
+Description: This package prints  "Hello world"
 License: CC BY
 Encoding: UTF-8
 LazyData: true
